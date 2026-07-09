@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="logo.png" alt="Centered Image" width="400">
+</div>
+
 # Monitr
 
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
