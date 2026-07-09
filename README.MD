@@ -1,9 +1,27 @@
 # Monitr
 
-Smart environment and security monitoring system that combines an ESP32 sensor node, a Python analytics service, and a PHP web dashboard to detect anomalies in real time — such as unusual temperature/humidity changes, unexpected motion, or abnormal network bandwidth usage.
+<div align="center">
+  <img width="100%" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/a7e86858-ca52-41d8-83cb-0b0f4a15622b" />
+</div>
 
+<br/>
+
+<div align="center">
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+</div>
+
+<br/>
+
+> Smart environment and security monitoring system that combines an ESP32 sensor node, a Python analytics service, and a PHP web dashboard to detect anomalies in real time such as unusual temperature/humidity changes, unexpected motion, or abnormal network bandwidth usage.
+
+---
 I am currently expanding an existing ESP32 room monitoring project by developing a new Python analytics layer.
- 
 This initiative is heavily inspired by my current summer internship in the Infrastructure and Communications department at Dr. Nélio Mendonça Hospital. In my day-to-day role, I am developing practical skills in system administration and networking by visiting multiple healthcare centers, where I manage infrastructure and ensure seamless network integration for essential medical hardware.
 
 
